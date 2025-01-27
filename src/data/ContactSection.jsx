@@ -9,8 +9,7 @@ export const contactSection = [
     },
     {
         content: `<h3>Contact</h3>
-                        <p><b>email: <b/>
-                        idirga37@gmail.com</p>
+                        <p><b>Email: <b/>idirga37@gmail.com</p>
                         <p><b>Phone Number: <b/>+6287850826906</p>`
     },
     {
