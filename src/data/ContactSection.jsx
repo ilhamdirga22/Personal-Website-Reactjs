@@ -14,7 +14,7 @@ export const contactSection = [
     },
     {
         content: `<h3>Social</h3>
-                        <p><b>Instagram: </b>m.ilhamdirgantara</p>`
+                        <p><b>X: </b>@Idirga37Dirga</p>`
                         
     },
 ]
