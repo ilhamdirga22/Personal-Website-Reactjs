@@ -9,9 +9,9 @@ export const contactSection = [
     },
     {
         content: `<h3>Contact</h3>
-                        <p>idirga37</p>
-                        <p>@gmail.com</p>
-                        <p>+6287850826906</p>`
+                        <p><b>email: <b/>
+                        idirga37@gmail.com</p>
+                        <p><b>Phone Number: <b/>+6287850826906</p>`
     },
     {
         content: `<h3>Social</h3>
