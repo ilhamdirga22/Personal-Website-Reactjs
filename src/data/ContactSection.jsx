@@ -1,6 +1,6 @@
 export const contactSection = [
     {
-        content: `<h3>M.Ilham Dirgantara.</h3>
+        content: `<h3>M.I.D</h3>
                         <p>Jalan Raya Pemogan No.21, Denpasar Selatan, Bali, Indonesia </p>`
     },
     {
